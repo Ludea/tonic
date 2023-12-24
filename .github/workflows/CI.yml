@@ -3,7 +3,7 @@ name: CI
 on:
   push:
     branches:
-    - master
+    - hyper-1.0
   pull_request: {}
 
 env:
